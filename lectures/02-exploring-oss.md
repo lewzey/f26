@@ -1,6 +1,6 @@
 ---
 title: "2. Exploring OSS projects"
-date: 2026-09-10
+date: 2026-09-14
 marp: true
 theme: marp-mru
 paginate: true
@@ -15,15 +15,17 @@ _paginate: skip
 ### <!--fit-->Exploring OSS projects
 
 Charlotte Curtis
-September 10, 2026
+September 14, 2026
 
 ---
 
-## Today's plan
+## Today's Goals
+
 - Look at the projects you shared for homework:
   - Communication channels
   - Project activity
   - Common documents
-- Collaborative git basics
 
-## Git basics
+---
+
+## Communication channels
