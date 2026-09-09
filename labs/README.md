@@ -5,9 +5,9 @@ Lab activities are designed to introduce you to common skills used in open sourc
 The following schedule is tentative, but will be updated each week prior to the lab session.
 
 | Date    | Lab | Activity                         |
-|---------|-----|----------------------------------|
+| ------- | --- | -------------------------------- |
 | Sept 3  | 1   | [Basic bash](01-bash.md)         |
-| Sept 10 | 2   | Git 1                            |
+| Sept 10 | 2   | [Git 1](01-git-1.md)             |
 | Sept 17 | 3   | Git 2                            |
 | Sept 24 | 4   | Writing good issues              |
 | Oct 1   | 5   | Navigating a large codebase      |
