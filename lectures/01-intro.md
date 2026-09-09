@@ -155,5 +155,7 @@ What are some barriers to contributing to open source?
     - [GitHub](https://github.com/)
     - [GitLab](https://gitlab.com/)
     - [CodeBerg](https://codeberg.org/)
+    - even email, such as for [git itself](https://lore.kernel.org/git/)
+
 
 > **Homework**: for next lecture, respond to the [discussion post](https://github.com/mru-open-source/f26/discussions/1) with links to 3-5 OSS projects that you use
