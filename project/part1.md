@@ -2,6 +2,7 @@
 Due Oct 2, 2026
 
 - [Objective](#objective)
+- [Guidelines for project selection](#guidelines-for-project-selection)
 - [Deliverables](#deliverables)
 - [Report](#report)
     - [1. Project summary](#1-project-summary)
@@ -20,8 +21,36 @@ You may have some idea of what open source software you'd like to work on, or pe
 > [!NOTE]
 > If you are already an active contributor to a project, I encourage you to use this course as an opportunity to branch out and explore others. If you are a project *maintainer*, that's awesome, but please pick a new project to contribute to.
 
+## Guidelines for project selection
+Before diving in to the report, you will likely have to do some high level evaluation on more than the final three projects chosen for further evaluation. To get up and running as a successful contributor, I recommend picking something "Goldilocks" sized — not too big, and not too small[^1].
+
+[^1] Side note: I've started using more proper em-dashes in an effort to reclaim human punctuation from LLMs. On Windows, you can type them by holding down Alt and entering 0151, while Linux uses the much more civilized Compose + ---.
+
+**Examples of (likely) too big**:
+- The Linux kernel
+- Firefox
+- React
+- VS Code
+
+These are all massively popular and well-established projects. While it's certainly possible that you might establish a foothold in these communities, it may be more challenging than in something medium sized.
+
+**Examples of too small, immature, or chaotic**:
+- Anything that's really new (less than a year or so old), or has few commits (less than 100 or so)
+- Anything that's not actively updated (commits more than a month ago), or has way too many commits (like [OpenClaw](https://github.com/openclaw/openclaw), which has an insane AI-fuelled development pace)
+- The commit log shows that it's mostly a solo developer
+- Documentation on "how to contribute" is missing or sparse
+- [My own project](https://github.com/cfcurtis/pdfstitcher), which isn't really being used or maintained anymore, is a good example of "too small" and "not active"
+
+I don't want to influence your decisions too much by providing examples in the Goldilocks zone, but here's some other ways to discover friendly projects:
+
+**Places to look for friendly, medium scale projects**
+- GitHub has a [tag](https://github.com/topics/good-first-issue) for `good-first-issue` that can be helpful in finding welcoming projects. Make sure to check out the actual issues to see if there are any recent ones with that tag, though.
+- The site [UpForGrabs](https://up-for-grabs.net) aggregates projects with the `good-first-issue` tag, as well as similar tags like `easy-fix` and `help-wanted`
+- GitLab is significantly less popular than GitHub, so I would place the [top-starred projects]((https://gitlab.com/explore/projects/active?sort=stars_desc)) are more in the "medium" than "huge" category.
+- Some organizations, like [Gnome](https://gitlab.gnome.org/explore/groups/active) and [KDE](https://invent.kde.org/explore/groups/active) host their own GitLab instances. While these are fairly big in aggregate, many of the associated projects would probably be a good place to contribute this semester
+
 ## Deliverables
-The main deliverable is a report comparing 3-4 open source projects, submitted through D2L in PDF format. There is also class time reserved for you to present your findings. 
+The main deliverable is a report comparing three open source projects, submitted through D2L in PDF format. There is also class time reserved for you to present your findings. 
 
 The following section describes the report format and contents. You may structure the content of each section however makes sense to you, including using tables, bullet points, or descriptive paragraphs. If you feel I am missing an important aspect of your candidate projects, feel free to add additional observations or criteria.
 
@@ -83,4 +112,12 @@ Each of the six report sections will be given a score according to the following
 | 1     | A minimal effort was made, incomplete or incorrect                     |
 | 0     | No effort was made, plagiarized, or obviously AI                       |
 
-The presentation will be scored
+The presentation will be scored with an additional 6 points on a simplified scale:
+
+| Score | Description                                           |
+| ----- | ----------------------------------------------------- |
+| 0     | Did not give presentation                             |
+| 3     | Clearly low-effort — missing visuals, very short, etc |
+| 6     | Complete presentation                                 |
+
+> Why 6 points? Basically, if you don't do the presentation, you can't get an "A". $\frac{24}{30} = 0.8$, so I choose 60 points to make 100% on the report worth 80%.
