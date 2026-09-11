@@ -120,4 +120,4 @@ The presentation will be scored with an additional 6 points on a simplified scal
 | 3     | Clearly low-effort — missing visuals, very short, etc |
 | 6     | Complete presentation                                 |
 
-> Why 6 points? Basically, if you don't do the presentation, you can't get an "A". $\frac{24}{30} = 0.8$, so I choose 60 points to make 100% on the report worth 80%.
+> Why 6 points? Basically, if you don't do the presentation, you can't get an "A". $\frac{24}{30} = 0.8$, so I choose 6 points to make 100% on the report worth 80%.
