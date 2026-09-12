@@ -20,7 +20,7 @@ September 14, 2026
 ---
 
 ## Today's Goals
-
+- Understand a bit more about Git
 - Look at the projects you shared for homework:
   - Communication channels
   - Project activity
@@ -28,4 +28,20 @@ September 14, 2026
 
 ---
 
-## Communication channels
+## Single user, single branch
+
+---
+
+## Single user, multiple branches
+
+---
+
+## Multiple users, single branch
+
+---
+
+## Multiple users, multiple forks, single branch
+
+---
+
+## <!-- fit --> Multiple users, multiple forks, multiple branches 
