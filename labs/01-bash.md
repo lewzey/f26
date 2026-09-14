@@ -45,7 +45,7 @@ All of these commands have various options that can be modified through the use 
 ## Deliverables
 To count this as one of your labs for credit, show me how far you got in Bandit.
 
-If you were unable to make it to the scheduled tutorial, email me within 1 week describing:
+If you were unable to make it to the scheduled tutorial, email me ~~within 1 week~~ by Thursday, September 16 describing:
 - The highest Bandit level you solved
 - The command you used to solve it
 
