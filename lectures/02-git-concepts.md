@@ -1,5 +1,5 @@
 ---
-title: "2. Exploring OSS projects"
+title: "2. Git Concepts"
 date: 2026-09-14
 marp: true
 theme: marp-mru
@@ -12,7 +12,8 @@ _paginate: skip
 -->
 
 # <!--fit-->COMP 3700A: Contributing to Open Source
-### <!--fit-->Exploring OSS projects
+### <!--fit-->~~Exploring OSS projects~~
+### <!--fit-->Git Concepts
 
 Charlotte Curtis
 September 14, 2026
