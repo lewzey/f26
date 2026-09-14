@@ -34,6 +34,7 @@ September 14, 2026
 ## Housekeeping
 - Lab grades will be updated on D2L out of seven
 - Lab deadlines now made explicit on [labs README](https://github.com/mru-open-source/f26/tree/main/labs), with extensions for first two
+- [Course notes](https://github.com/mru-open-source/f26/tree/main/course_notes) are now live
 - [Project part 1](https://github.com/mru-open-source/f26/tree/main/project/part1.md) is now published
   > I asked Gemini and it was completely willing to invent answers. Please don't waste my time (and yours) outsourcing this to an LLM.
 
@@ -124,4 +125,4 @@ September 14, 2026
   - How do you evaluate project activity?
   - How is communication handled?
 
-> **Homework**: Stay tuned while I create issues for content to create and review
+> **Homework**: Sign up to write [class notes](https://github.com/mru-open-source/f26/discussions/20) for a topic
