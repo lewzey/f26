@@ -10,3 +10,4 @@ This repo will serve as the main hub for content, including lecture slides, clas
 | ---- | ------- | ---------- |
 | 2026-09-08 | [1. Introduction](lectures/01-intro.md) | <a href="lectures/pdfs/01-intro.pdf"><img src="img/file-pdf.svg" alt="PDF" style="height: 20px; margin: 0;"/></a> |
 | 2026-09-14 | [2. Exploring OSS projects](lectures/02-git-concepts.md) | <a href="lectures/pdfs/02-git-concepts.pdf"><img src="img/file-pdf.svg" alt="PDF" style="height: 20px; margin: 0;"/></a> |
+| 2026-09-14 | [2. Git Concepts](lectures/02-git-concepts.md) | <a href="lectures/pdfs/02-git-concepts.pdf"><img src="img/file-pdf.svg" alt="PDF" style="height: 20px; margin: 0;"/></a> |
