@@ -24,7 +24,7 @@ You may have some idea of what open source software you'd like to work on, or pe
 ## Guidelines for project selection
 Before diving in to the report, you will likely have to do some high level evaluation on more than the final three projects chosen for further evaluation. To get up and running as a successful contributor, I recommend picking something "Goldilocks" sized — not too big, and not too small[^1].
 
-[^1] Side note: I've started using more proper em-dashes in an effort to reclaim human punctuation from LLMs. On Windows, you can type them by holding down Alt and entering 0151, while Linux uses the much more civilized Compose + ---.
+[^1]: I've started using more proper em-dashes in an effort to reclaim human punctuation from LLMs. On Windows, you can type them by holding down Alt and entering 0151, while Linux uses the much more civilized Compose + ---.
 
 **Examples of (likely) too big**:
 - The Linux kernel
