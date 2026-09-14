@@ -120,7 +120,7 @@ September 14, 2026
 
 ---
 
-## Exploring communities
+## Exploring communities — Wednesday
 - With the projects you posted on the last [homework discussion](https://github.com/mru-open-source/f26/discussions/1):
   - What are some common documents?
   - How do you evaluate project activity?
