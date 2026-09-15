@@ -22,10 +22,10 @@ September 14, 2026
 
 ## Today's Goals
 - Understand a bit more about Git
-- Look at the projects you shared for homework:
+~~- Look at the projects you shared for homework:
   - Common documents
   - Project activity
-  - Communication channels
+  - Communication channels~~
 
 **References**:
 - "Open Source: What It Is and How to Contribute" — [Chapter 4 (Git)](https://runestone.academy/ns/books/published/opensource/ch_git.html?mode=browsing)
