@@ -10,8 +10,8 @@ The following schedule is tentative, but will be updated each week prior to the 
 | Sept 10 | 2   | [Git 1](02-git-1.md)             | Sept 23*  |
 | Sept 17 | 3   | Git 2                            | Sept 23   |
 | Sept 24 | 4   | Writing good issues              | Sept 30   |
-| Oct 1   | 5   | Navigating a large codebase      | Oct 7     |
-| Oct 8   | 6   | *Work period*                    |           |
+| Oct 1   | 5   | Cancelled — come to the AI panel discussion! |           |
+| Oct 8   | 6   | Navigating a large codebase      | Oct 14    |
 | Oct 22  | 7   | Handling merge conflicts         | Oct 28    |
 | Oct 29  | 8   | *Day after midterm -- cancelled* |           |
 | Nov 5   | 9   | CI/CD                            | Nov 11    |
