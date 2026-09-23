@@ -9,7 +9,7 @@
     1. *Pull requests are what accomplishes those to dos!*
 
 ### What to look out for:
-*** Charlotte likes sorting by comments sometimes to see what back and forth there is in the community ***
+***Charlotte likes sorting by comments sometimes to see what back and forth there is in the community***
 <table>
   <tr>
     <th> <strong> Checkmarks on issues </strong> </th>
@@ -42,7 +42,7 @@
 
 ## Class Acitvity! 
 ### Look at some OSS. How active are the projects? What communication channels are most used?
-### Example: Godot
+#### Example: Godot
 **What is the oldest open issue/PR**
 - [w switch is not in effect when opening projects from the project manager 3070](https://github.com/godotengine/godot/issues/3070)
     - Submitted December 13, 2015
