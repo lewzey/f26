@@ -14,28 +14,31 @@
   <tr>
     <th> <strong> Checkmarks on issues </strong> </th>
     <td> 
-    Purple checkmarks on github are <strong> closed and solved </strong> 
+    <ul>
+        <li> Purple checkmarks on github are <strong> closed and solved </strong> </li>
     <br>
-    Grey checkmarks on github are <strong> 
-    closed but NOT solved </strong>
+        <li> Grey checkmarks on github are <strong> closed but NOT solved </strong> </li>
+    </ul>
     </td>
   </tr>
   <tr>
     <th> <strong> Tags and Labels </strong> </th>
     <td> 
-    Tags and labels are an important in getting a summary on what issues may have going on. 
+    <ul>
+        <li> Tags and labels are an important in getting a summary on what issues may have going on. </li>
     <br> 
-    <italic> "good first issue" is a great tag to look out for when looking for projects to contribute to because it means it is beginner friendly! </italic> 
+    <li>
+    <i> <strong>"good first issue"</strong> is a great tag to look out for when looking for projects to contribute to because it means it is beginner friendly! </i> 
+    </li>
+    </ul>
     </td>
   </tr>
     <th> <strong> Commits and PR </strong> </th>
     <td> 
-    Watch out for repositories that have too much PR and commits happening in a short period of time. It is good for commits to be active but any repositories having a multitude of commits within a day/week are red flags
-    <br> 
-    <italic> Look for there to be one commit every few days or so. This means the project is active but also carefully looking at the PR being sent! </italic> 
-    <br> 
-    <br>
-    Also look out for open requests that linger for long periods of time. It could be a yellow flag!
+    <ul>
+        <li>Watch out for repositories that have too much PR and commits happening in a short period of time. It is good for commits to be active but any repositories having a multitude of commits within a day/week are red flags</li>
+        <li><i> Look for there to be one commit every few days or so. This means the project is active but also carefully looking at the PR being sent! </i></li> 
+        <li>Also look out for open requests that linger for long periods of time. It could be a yellow flag!</li>
     </td>
   </tr>
 </table>
